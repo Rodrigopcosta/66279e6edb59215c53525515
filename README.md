@@ -9,6 +9,7 @@ Este é um projeto de conversão de valores de Dólar para Real e vice-versa, ut
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Configuração do Projeto](#configuração-do-projeto)
 - [Como Usar](#como-usar)
+- [Contribuição](#contribuição)
 - [Autor](#autor)
 
 ## Visão Geral
@@ -44,8 +45,13 @@ Este projeto permite converter valores entre Dólar (USD) e Real (BRL). O valor 
 2. Insira um valor no campo USD para converter para BRL.
 3. Insira um valor no campo BRL para converter para USD. Note que os valores no campo BRL devem ser inseridos utilizando vírgula ao invés de ponto como separador decimal.
 
-## Autor
+## Contribuição
 
-Feito por [Rodrigo Costa](https://github.com/Rodrigopcosta). 
-Likedin: [Linkedin](https://www.linkedin.com/in/rodrigo-costa-desenvolverdor-web/)
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorar o projeto.
+
+# Autor
+
+Rodrigo Pereira da Costa
+
+https://www.linkedin.com/in/rodrigo-costa-desenvolverdor-web/
 
