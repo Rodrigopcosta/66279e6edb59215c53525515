@@ -1,6 +1,8 @@
 # Conversor de Moedas
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Rodrigopcosta/Conversor-de-moeda/blob/main/LICENSE) 
 
+https://conversomoedas.netlify.app/
+
 Este é um projeto de conversão de valores de Dólar para Real e vice-versa, utilizando a API do ExchangeRate-API para obter a taxa de câmbio atual.
 
 ## Índice
